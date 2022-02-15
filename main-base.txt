@@ -1,0 +1,7 @@
+String hungry = "yes"/"no";
+
+if(hungry == "yes")
+	System.out.println("Favourite foods! listed below");
+	System.out.println("pizza");
+else
+	System.out.println("i am workin"); 
