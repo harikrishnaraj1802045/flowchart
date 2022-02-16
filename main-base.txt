@@ -6,4 +6,6 @@ if(hungry == "yes")
 	System.out.println("burger");
 	System.out.println("fries");
 else
-	System.out.println("i am workin"); 
+	System.out.println("i am thirsty");
+	System.out.println("water");
+	 
