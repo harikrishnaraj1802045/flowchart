@@ -8,4 +8,6 @@ if(hungry == "yes")
 else
 	System.out.println("i am thirsty");
 	System.out.println("water");
+	System.out.println("juice");
+
 	 
